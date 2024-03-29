@@ -1,0 +1,7 @@
+:root {
+  --main-color-violet: rgb(165, 180, 252);
+  --main-light-green: #6ed5b7;
+  --main-light-gray: #6b7280;
+  --main-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
