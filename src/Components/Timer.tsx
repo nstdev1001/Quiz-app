@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import style from "../style/Main.module.css";
 
 const Timer = ({ onTimeUp }: any) => {
